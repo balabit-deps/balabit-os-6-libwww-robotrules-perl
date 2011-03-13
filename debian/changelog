@@ -1,0 +1,5 @@
+libwww-robotrules-perl (6.01-1) unstable; urgency=low
+
+  * Initial Release (Closes: #618281).
+
+ -- Nicholas Bamber <nicholas@periapt.co.uk>  Sun, 13 Mar 2011 23:20:24 +0000
